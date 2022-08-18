@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/gift/static/css/main.3f0981d7.css",
-    "main.js": "/gift/static/js/main.855cbb81.js",
-    "static/media/background2.jpg": "/gift/static/media/background2.11a11ea8c7f6ab364f36.jpg",
-    "static/media/angry.gif": "/gift/static/media/angry.284ab1f22b69076cf75a.gif",
-    "static/media/sendgift.gif": "/gift/static/media/sendgift.af0120dbd2cbf88118b8.gif",
-    "static/media/SuperAngry.gif": "/gift/static/media/SuperAngry.02de5e0b0086d7eaa95f.gif",
-    "static/media/Loading.gif": "/gift/static/media/Loading.76f4bf71b850bc0b5506.gif",
-    "static/media/sad.gif": "/gift/static/media/sad.a4b748bb1ed284cbfa80.gif",
-    "static/media/Celebrate.gif": "/gift/static/media/Celebrate.75e67caac5501ac528b9.gif",
-    "static/media/crying.gif": "/gift/static/media/crying.9d755934f00144543ae8.gif",
-    "static/media/lonely.gif": "/gift/static/media/lonely.78b211acc44bd062c589.gif",
-    "static/media/Menu.gif": "/gift/static/media/Menu.729951a49fffd92e33d0.gif",
-    "index.html": "/gift/index.html",
-    "main.3f0981d7.css.map": "/gift/static/css/main.3f0981d7.css.map",
-    "main.855cbb81.js.map": "/gift/static/js/main.855cbb81.js.map"
+    "main.css": "/Gift/static/css/main.407c8856.css",
+    "main.js": "/Gift/static/js/main.b155ab92.js",
+    "static/media/background2.jpg": "/Gift/static/media/background2.11a11ea8c7f6ab364f36.jpg",
+    "static/media/angry.gif": "/Gift/static/media/angry.284ab1f22b69076cf75a.gif",
+    "static/media/sendgift.gif": "/Gift/static/media/sendgift.af0120dbd2cbf88118b8.gif",
+    "static/media/SuperAngry.gif": "/Gift/static/media/SuperAngry.02de5e0b0086d7eaa95f.gif",
+    "static/media/Loading.gif": "/Gift/static/media/Loading.76f4bf71b850bc0b5506.gif",
+    "static/media/sad.gif": "/Gift/static/media/sad.a4b748bb1ed284cbfa80.gif",
+    "static/media/Celebrate.gif": "/Gift/static/media/Celebrate.75e67caac5501ac528b9.gif",
+    "static/media/crying.gif": "/Gift/static/media/crying.9d755934f00144543ae8.gif",
+    "static/media/lonely.gif": "/Gift/static/media/lonely.78b211acc44bd062c589.gif",
+    "static/media/Menu.gif": "/Gift/static/media/Menu.729951a49fffd92e33d0.gif",
+    "index.html": "/Gift/index.html",
+    "main.407c8856.css.map": "/Gift/static/css/main.407c8856.css.map",
+    "main.b155ab92.js.map": "/Gift/static/js/main.b155ab92.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f0981d7.css",
-    "static/js/main.855cbb81.js"
+    "static/css/main.407c8856.css",
+    "static/js/main.b155ab92.js"
   ]
 }
